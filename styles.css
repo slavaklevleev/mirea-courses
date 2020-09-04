@@ -1,0 +1,23 @@
+*{
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+body {
+    background-image: linear-gradient(to bottom, white, #d1e5fb);
+    min-height: 100vh;
+}
+
+.form-area {
+    width: 80%;
+    margin: auto;
+}
+
+.form-group#text {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
